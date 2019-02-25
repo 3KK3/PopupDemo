@@ -235,6 +235,7 @@
     [_popupView removeFromSuperview];
     [_bgMaskImgView removeFromSuperview];
     [_containerView removeFromSuperview];
+    [_customBoxView removeFromSuperview];
     _strongSelf = nil;
 }
 
